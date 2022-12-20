@@ -1,0 +1,6 @@
+pickle
+pafy
+youtube-dl
+moviepy
+pydub
+pytube
